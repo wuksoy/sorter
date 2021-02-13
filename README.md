@@ -1,2 +1,5 @@
 # sorter
-collection of sorting algorithms written for practise
+This is a repository containing the sorting algorithms that I learnt over the years.
+
+## list of sorting algorithms
+- Bubble Sort
